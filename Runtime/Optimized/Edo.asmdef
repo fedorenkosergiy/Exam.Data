@@ -1,0 +1,19 @@
+{
+    "name": "Edo",
+    "rootNamespace": "Edo",
+    "references": [
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:43b243fe22fde4214a059b41a612313d",
+        "GUID:8e53affab84e3a64c9b1b91b1cac3c80",
+        "GUID:b63cb8579e5b4754adc0039e341ab0ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
